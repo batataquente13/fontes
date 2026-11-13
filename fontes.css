@@ -1,0 +1,127 @@
+
+
+
+
+@font-face {
+  font-family:fontegugu ;
+  src: url(fontenu/Agrave_Pro/AgravePro-VariableFont_wght.ttf);
+}
+@font-face {
+  font-family:fontegugu2 ;
+  src: url(fontenu/Black_Ops_One/BlackOpsOne-Regular.ttf);
+}
+@font-face {
+  font-family:fontegugu3 ;
+  src: url(fontenu/Redaction_50/Redaction50-Bold.ttf);
+}
+@font-face {
+  font-family:fontegugu4 ;
+  src: url(fontenu/Agrave_Pro/AgravePro-VariableFont_wght.ttf);
+}
+font-face {
+  font-family:fontegugu5 ;
+  src: url(Agrave_Pro\,Black_Ops_One\,Cinzel\,Cinzel_Decorative\,Redaction_50/);
+}
+
+
+
+
+.jogo{
+    width: 500px;
+    height: 187px;
+    border-radius: 10px;
+    border: 2px solid rgb(16, 77, 16);
+    background-color: rgba(34, 146, 0, 0.37);
+    margin-top: 25px;
+    margin-left: 25px;
+   font-family: fontegugu3;
+    
+    
+}
+
+.intrustrial{
+    width: 500px;
+    height: 230px;
+    border-radius: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgba(110, 110, 110, 0.514);
+    margin-top: 25px;
+    margin-left: 25px;
+    font-family: fontegugu2;
+    
+    
+}
+
+.historia{
+    width: 500px;
+    height: 230px;
+    border-radius: 10px;
+    border: 2px solid rgb(151, 74, 110);
+    background-color: rgba(196, 199, 148, 0.548);
+    margin-top: 25px;
+    margin-left: 25px;
+    font-family: fontegugu5;
+    
+    
+}
+
+header{
+background-color: rgb(217, 221, 154);
+height: 90px;
+text-align: center;
+ font-size: 30px;
+ width: 100vw;
+ margin: 0px;
+ padding: 30px;
+ font-family: fontegugu;
+ 
+}
+
+
+
+h2{
+     font-size: 38px;
+}
+
+p{
+  font-size: 21px;  
+}
+
+
+.redaction-50-regular {
+  font-family: "Redaction 50", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.redaction-50-bold {
+  font-family: "Redaction 50", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.redaction-50-regular-italic {
+  font-family: "Redaction 50", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+body{
+    background-color: rgb(119, 112, 71);
+    font-family: fontegugu;
+   
+}
+
+h1{ 
+    color: rgb(22, 21, 21);
+    margin: 0 auto;
+}
+
+.logo{
+     width: 90px;
+    height: 90px;
+    display: inline-flex;
+    
+   
+}
+
